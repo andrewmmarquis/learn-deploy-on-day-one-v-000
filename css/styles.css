@@ -132,6 +132,11 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#andrew-marquis-cover {background-image: "http://i.imgur.com/OMi0uAy.png"}
+
+#andrew-marquis-card {background-image: "http://i.imgur.com/VWpdkJH.jpg"}
+
 #juan-rivera-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/juan-rivera-cover.jpg");
 }
